@@ -1,6 +1,6 @@
 - 👋 Hi, I am mefaun. friends call me Rice.
 - 👀 I’m interested in gaming, and programming
-- 🌱 I’m currently learning GB Studio
+- 🌱 I’m currently learning C#, Unity
 - 💞️ I’m looking to collaborate on Game Development Projects
 - 📫 You can reach me on twitter or IG @mefaun
 
